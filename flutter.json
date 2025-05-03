@@ -1,0 +1,44 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, Eggs, Bread, and Fruits",
+      "dueDate": "2025-05-04",
+      "completed": false,
+      "priority": "High"
+    },
+    {
+      "id": 2,
+      "title": "Finish project report",
+      "description": "Complete the final draft of the graphics and rendering paper",
+      "dueDate": "2025-05-06",
+      "completed": false,
+      "priority": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Call the bank",
+      "description": "Discuss credit card statement issues",
+      "dueDate": "2025-05-03",
+      "completed": true,
+      "priority": "Low"
+    },
+    {
+      "id": 4,
+      "title": "Workout",
+      "description": "Gym session at 8 PM",
+      "dueDate": "2025-05-03",
+      "completed": false,
+      "priority": "Medium"
+    },
+    {
+      "id": 5,
+      "title": "Book doctor appointment",
+      "description": "Annual check-up booking",
+      "dueDate": "2025-05-05",
+      "completed": false,
+      "priority": "High"
+    }
+  ]
+}
