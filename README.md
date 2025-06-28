@@ -24,9 +24,9 @@ Built with **FastAPI** — a blazing-fast, modern Python web framework — this 
 
 ## 🔁 How It Works
 
-1. 📥 The user sends a POST request with financial data in JSON format.
-2. 🧰 FastAPI + Pydantic validates and parses the input.
-3. 🤖 The decision tree model makes a prediction (`1` = Good, `0` = Bad).
-4. 📤 The API returns a friendly response like:  
+1. The user sends a POST request with financial data in JSON format.
+2. FastAPI + Pydantic validates and parses the input.
+3. The decision tree model makes a prediction (`1` = Good, `0` = Bad).
+4. The API returns a friendly response like:  
    ```json
    {"Prediction": "Good"}
